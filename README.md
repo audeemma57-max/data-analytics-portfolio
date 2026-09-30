@@ -46,6 +46,18 @@ The project includes:
 
 🔗 [View project](https://github.com/audeemma57-max/quick-commerce-data-analysis)
 
+### Demand Forecasting & Procurement Optimization
+*Le Club Français du Vin — team project with S. Troquereau, J. Petrosyan and S. Zmiri*
+ 
+A newsvendor-based ordering strategy built on the club's existing forecasts:
+ 
+- Measured a **13 % forecast bias** and high dispersion (~45 %) across 40 historical wines
+- Modeled demand distributions and computed cost of underage/overage to size **order quantities** that balance expected profit and service level
+- Stress-tested the model (extreme prices, online substitution, a "perfect substitute" wine)
+  
+🔗 [View project](https://github.com/audeemma57-max/quick-commerce-data-analysis)
+  
+
 ##  Areas of Interest
 
 - Data Analytics
