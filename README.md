@@ -55,7 +55,7 @@ A newsvendor-based ordering strategy built on the club's existing forecasts:
 - Modeled demand distributions and computed cost of underage/overage to size **order quantities** that balance expected profit and service level
 - Stress-tested the model (extreme prices, online substitution, a "perfect substitute" wine)
   
-🔗 [View project](https://github.com/audeemma57-max/quick-commerce-data-analysis)
+🔗 [View project](https://github.com/audeemma57-max/le-club-francais-du-vin-analyse)
   
 
 ##  Areas of Interest
